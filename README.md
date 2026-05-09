@@ -1,3 +1,5 @@
+⚠️ONLY WORKS FOR BLENDER 5.0.0 AND ABOVE!
+
 Importing Bacons Rigs have never been more easy!
 
 Use this plugin to import
